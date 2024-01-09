@@ -13,7 +13,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -33,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/0300hrs/FEM-Advice-generator-app)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
@@ -61,7 +60,6 @@ I am hoping to work with more complex APIs.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@0300hrs](https://www.frontendmentor.io/profile/0300hrs)
+- Twitter - [@0300hrs](https://www.twitter.com/0300hrs)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
