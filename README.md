@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![./image.screenshot.png](./image.screenshot.png)
+![./image/screenshot.png](./image/screenshot.png)
 
 ### Links
 
 - Solution URL: (https://github.com/0300hrs/FEM-Advice-generator-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://fem-advice-generator-app-eight.vercel.app/](https://fem-advice-generator-app-eight.vercel.app/)
 
 ### Built with
 
